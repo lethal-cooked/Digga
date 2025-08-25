@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #1e1e2f, #2a2a4e);
+    color: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3.5rem;
+    color: #00d4ff;
+    text-shadow: 0 0 10px rgba(0, 212, 255, 0.7);
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #b0b0ff;
+}
+
+.intro {
+    margin: 40px 0;
+}
+
+.ai-animation {
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle, #00d4ff 10%, transparent 20%);
+    border-radius: 50%;
+    margin: 20px auto;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); opacity: 0.8; }
+    50% { transform: scale(1.2); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.8; }
+}
+
+.intro h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.intro p {
+    font-size: 1.1rem;
+    color: #d0d0ff;
+    line-height: 1.6;
+}
+
+.interaction {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+}
+
+.interaction h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+#userInput {
+    padding: 10px;
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #00d4ff;
+    border: none;
+    border-radius: 5px;
+    color: #1e1e2f;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #00aaff;
+}
+
+.response-box {
+    margin-top: 20px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 5px;
+    min-height: 50px;
+    color: #d0d0ff;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 0.9rem;
+    color: #b0b0ff;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    header h1 { font-size: 2.5rem; }
+    .intro h2 { font-size: 1.5rem; }
+    #userInput { width: 100%; margin-bottom: 10px; }
+}

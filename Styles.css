@@ -1,198 +1,35 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
-}
-
 body {
-    background: linear-gradient(135deg, #0f0f1f, #1a1a3a);
-    color: #e0e0ff;
-    min-height: 100vh;
+    font-family: 'Courier New', monospace;
+    background-color: #000;
+    color: #ff0000;
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
-    padding: 20px;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
 }
 
-.container {
-    max-width: 900px;
-    width: 100%;
-}
-
-header {
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-header h1 {
-    font-size: 3rem;
-    color: #00ffcc;
-    text-shadow: 0 0 15px rgba(0, 255, 204, 0.6);
-    animation: glow 2s infinite alternate;
-}
-
-@keyframes glow {
-    from { text-shadow: 0 0 10px rgba(0, 255, 204, 0.4); }
-    to { text-shadow: 0 0 20px rgba(0, 255, 204, 0.8); }
-}
-
-header p {
-    font-size: 1.1rem;
-    color: #b0b0ff;
-    max-width: 700px;
-    margin: 0 auto;
-}
-
-.chat-container {
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 15px;
-    padding: 20px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-    margin-bottom: 40px;
-}
-
-.chat-history {
-    max-height: 400px;
-    overflow-y: auto;
-    margin-bottom: 15px;
-    padding: 10px;
-    border-radius: 10px;
-    background: rgba(0, 0, 0, 0.2);
-}
-
-.message {
-    margin-bottom: 15px;
-    padding: 10px 15px;
-    border-radius: 10px;
-    max-width: 80%;
-    word-wrap: break-word;
-}
-
-.user-message {
-    background: #00ffcc;
-    color: #0f0f1f;
-    margin-left: auto;
-    text-align: right;
-}
-
-.ai-message {
-    background: #4a4a8a;
-    color: #e0e0ff;
-    margin-right: auto;
-    text-align: left;
-}
-
-.input-area {
-    display: flex;
-    gap: 10px;
-}
-
-#userInput {
-    flex: 1;
-    padding: 12px;
-    border: none;
-    border-radius: 8px;
-    font-size: 1rem;
-    background: rgba(255, 255, 255, 0.1);
-    color: #e0e0ff;
-}
-
-button {
-    padding: 12px 25px;
-    background: #00ffcc;
-    border: none;
-    border-radius: 8px;
-    color: #0f0f1f;
+.troll-text {
+    font-size: 80px;
     font-weight: bold;
-    cursor: pointer;
-    transition: transform 0.2s, background 0.3s;
-}
-
-button:hover {
-    background: #00ccaa;
-    transform: scale(1.05);
-}
-
-.thinking-indicator {
-    margin-top: 10px;
-    font-style: italic;
-    color: #b0b0ff;
-}
-
-.dots::after {
-    content: '';
-    animation: dots 1.5s steps(5, end) infinite;
-}
-
-@keyframes dots {
-    0%, 20% { content: '.'; }
-    40% { content: '..'; }
-    60% { content: '...'; }
-    80%, 100% { content: ''; }
-}
-
-.features {
-    margin-bottom: 40px;
-}
-
-.features h2 {
-    font-size: 1.8rem;
-    margin-bottom: 15px;
-    color: #00ffcc;
-}
-
-.features ul {
-    list-style: none;
-    padding: 0;
-}
-
-.features li {
-    margin-bottom: 10px;
-    font-size: 1.1rem;
-}
-
-.features a {
-    color: #00ffcc;
-    text-decoration: none;
-}
-
-.features a:hover {
-    text-decoration: underline;
-}
-
-footer {
     text-align: center;
-    font-size: 0.9rem;
-    color: #9090cc;
+    text-transform: uppercase;
+    animation: pulse 1s infinite;
+    margin-bottom: 20px;
 }
 
-footer a {
-    color: #00ffcc;
-    text-decoration: none;
+.troll-gif {
+    max-width: 300px;
+    width: 100%;
+    margin-top: 20px;
+    border: 2px solid #ff0000;
+    border-radius: 5px;
 }
 
-footer a:hover {
-    text-decoration: underline;
-}
-
-/* Scrollbar Styling */
-.chat-history::-webkit-scrollbar {
-    width: 8px;
-}
-
-.chat-history::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0.3);
-}
-
-.chat-history::-webkit-scrollbar-thumb {
-    background: #00ffcc;
-    border-radius: 4px;
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-    header h1 { font-size: 2.5rem; }
-    .input-area { flex-direction: column; }
-    button { width: 100%; }
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
 }

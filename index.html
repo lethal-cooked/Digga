@@ -3,28 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leth AI - The Ultimate Intelligent Assistant</title>
+    <title>Leth AI - Your Adaptive, Super-Smart AI Companion</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <header>
             <h1>Leth AI</h1>
-            <p>Your Super-Smart Companion for Everything</p>
+            <p>I am Leth AI, built to be super-smart like Grok from xAI. I adapt my responses based on your questions—quick answers for simple stuff, deep reasoning for the tough ones. I can handle basically anything!</p>
         </header>
-        <section class="intro">
-            <div class="ai-animation"></div>
-            <h2>Welcome to Leth AI</h2>
-            <p>Leth AI is a cutting-edge artificial intelligence designed to handle *anything* you throw at it—coding, answering questions, generating ideas, and more. Think of it as your all-knowing, all-doing digital sidekick!</p>
+        <section class="chat-container">
+            <div id="chatHistory" class="chat-history"></div>
+            <div class="input-area">
+                <input type="text" id="userInput" placeholder="Ask me anything... (e.g., 'Solve 2x + 3 = 7' or 'What's the weather in NYC?')">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+            <div id="thinking" class="thinking-indicator" style="display: none;">Leth AI is thinking... <span class="dots"></span></div>
         </section>
-        <section class="interaction">
-            <h3>Ask Leth AI Anything</h3>
-            <input type="text" id="userInput" placeholder="Type your question or task...">
-            <button onclick="askLethAI()">Ask Leth AI</button>
-            <div id="response" class="response-box"></div>
+        <section class="features">
+            <h2>What Can I Do?</h2>
+            <ul>
+                <li><strong>Adapt Responses:</strong> Quick facts or step-by-step reasoning.</li>
+                <li><strong>Tools Integration:</strong> Simulate web search, code execution, math solving, and more (expand with real APIs).</li>
+                <li><strong>Chat History:</strong> Keeps context for ongoing conversations.</li>
+                <li><strong>Futuristic UI:</strong> Smooth animations and dark mode vibe.</li>
+                <li><strong>Expand Me:</strong> Integrate with xAI's API at <a href="https://x.ai/api" target="_blank">https://x.ai/api</a> for real super-smart responses like Grok.</li>
+            </ul>
         </section>
         <footer>
-            <p>&copy; 2025 Leth AI. Built with intelligence and a touch of cosmic curiosity.</p>
+            <p>&copy; 2025 Leth AI. Inspired by Grok from xAI. For API integration details, visit <a href="https://x.ai/api">x.ai/api</a>.</p>
         </footer>
     </div>
     <script src="script.js"></script>
